@@ -1,0 +1,79 @@
+#header {
+    height: 100vh;
+    background-image: url('/img/bg-large.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.header-name {
+    font-family: "IBM Plex Serif", serif;
+    color: white;
+    font-weight: bold;
+    font-size: 7rem;
+}
+
+.header-caption {
+    font-family: "Dancing Script", sans-serif;
+    color: white;
+    font-size: 2rem;
+}
+
+.header-section {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.atul-img {
+    height: 250px;
+    border-radius: 50%;
+}
+
+.feature-title {
+    font-family: "IBM Plex Serif", serif;
+    color: #4e7386;
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.feature-description {
+    font-family: "Open Sans", sans-serif;
+}
+
+.material-symbols-outlined {
+    font-size: 5rem !important;
+    background-color: #4e7386;;
+}
+
+.pTitle {
+    font-family: "Open Sans", sans-serif;
+    color: #313f49;
+}
+
+.pFeature {
+    font-family: "Open Sans", sans-serif;
+    font-family: "Open Sans", sans-serif;
+}
+
+.showcaseList {
+    flex-direction: column;
+}
+
+.moreLink {
+    text-align: right;
+}
+
+.company-logo {
+    height: 100px;
+}
+
+.contact-caption {
+    font-family: "Open Sans", sans-serif;
+    color: #4e7386;
+    font-size: 2rem;
+}
